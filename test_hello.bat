@@ -1,0 +1,1 @@
+echo "hello world" >bat.out
