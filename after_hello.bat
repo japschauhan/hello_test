@@ -1,1 +1,1 @@
-echo "this is after hello world" >bat_after.out
+echo "this is after hello world"
